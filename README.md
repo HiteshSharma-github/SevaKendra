@@ -34,8 +34,12 @@ Minor Software for Dynamic Processing and Accessibility: Google Drive, Google Sp
 
 ## Use Case Diagrams
 ![Screenshot 2023-07-12 095418](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/3bfdd60b-88d0-4ece-bd3d-f7aadaca98c1)
+
+## Sequence Diagram
 ![Screenshot 2023-07-12 095504](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/807f7c8f-0a3f-4fb1-b458-94d393f025dd)
 ![Screenshot 2023-07-12 095530](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/ccd42c8c-39cc-4215-a183-4ba6b7973c1e)
+
+##  Entity Relationship Diagram
 ![Screenshot 2023-07-12 095706](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/e4bd5446-b49d-4856-ba79-3657ccd9a977)
 ## Live link:
 https://sevakendra.netlify.app/
