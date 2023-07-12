@@ -7,18 +7,18 @@ A web app based platform that focuses on connecting NGOs of different categories
 
 ## Minor Softwares required for Dynamic Processing and Accessibility: Google Drive, Google Spreadsheet, PWA, Botsupp, Razorpay
 
-## Targeted Users:                                                                                        
-➤Admin: - 
-o Manages list of Blacklist NGOs.
-o Manage User's interst.
-o Manages posts.
-o Manage Events.
+## Targeted Users:                                                                                                              
+➤Admin: -                                                 
+o Manages list of Blacklist NGOs.                                        
+o Manage User's interst.                                  
+o Manages posts.                                            
+o Manage Events.                                                                  
 
-➤ Patron: 
-o Can donate money with Razorpay Interface.
-o Patron can posts with an intention of creating awarness and can view events held by other NGOs.
-o Manage personal profile.
-o Manage its own view gallery.
+➤ Patron:                                                         
+o Can donate money with Razorpay Interface.                                                            
+o Patron can posts with an intention of creating awarness and can view events held by other NGOs.                                                    
+o Manage personal profile.                                                  
+o Manage its own view gallery.                                                                      
 
 
 # Requirement Specification and Features:
