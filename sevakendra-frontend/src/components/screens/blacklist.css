@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  background: linear-gradient(135deg, #f6e8fc 0%, #d6d1e4 100%);
+  padding: 20px;
+  height: 100vh;
+  overflow: auto;
+}
+
+.text-cell {
+  max-width: 150px; /* Adjust the maximum width based on your requirements */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.table-container {
+  width: 100%;
+  height: 60%;
+  background-color: #fff;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  overflow-x: auto;
+  overflow-y: scroll;
+}
+.table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+.multiline-text {
+  white-space: pre-wrap;
+}
+
+
+.table th,
+.table td {
+  padding: 8px;
+  text-align: left;
+  white-space: nowrap;
+}
+.table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.table th:nth-child(3),
+.table td:nth-child(3) {
+  width: 330px;
+}
+
+.table thead th {
+  font-weight: bold;
+}
+
+.download-button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .table th,
+  .table td {
+    font-size: 14px;
+  }
+}
