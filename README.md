@@ -5,7 +5,7 @@ A web app based platform that focuses on connecting NGOs of different categories
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,aws,netlify,git,github)]()     
 
-Minor Software for Dynamic Processing and Accessibility: Google Drive, Google Spreadsheet, PWA
+Minor Software for Dynamic Processing and Accessibility: Google Drive, Google Spreadsheet, PWA, Botsupp
 ## Features:
 
 ## Screenshots:
