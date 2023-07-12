@@ -1,7 +1,7 @@
 # SevaKendra
 A web app based platform that focuses on connecting NGOs of different categories with people for donations, while also providing a comprehensive list of banned NGOs. 
 ## Chatbot Preview:
-https://bot.surbo.io/iframe-botsup-preview/63e86bfcb655f5f501a9a576?preview_uuid=a7a12ff330a64c62b8bfc4267a0bc870
+
 ![Screenshot 2023-07-12 093516](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/82fc2f21-f437-430c-9d6c-4b9e39b3e132)
 
 
