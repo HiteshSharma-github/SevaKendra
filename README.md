@@ -1,4 +1,4 @@
-# 🛞 SevaKendra 🛞
+![2](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/9e699114-5e66-49b9-af63-fd6f435072dc)# 🛞 SevaKendra 🛞
 A web app based platform that focuses on connecting NGOs of different categories with people for donations, while also providing a comprehensive list of banned NGOs. 
 
 ## Tech Stack -
@@ -108,67 +108,85 @@ not with the other module.
 
 ## Screenshots:
 > HOMEPAGE : A toast popup on successful sign or unsuccessful sign for providing feedback to user.Validators are applied in all fields.
-![p1](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/e81dc18c-bb4a-435e-af28-95b254731c38)
+![1](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/f09ed3ff-bd43-4504-ae1f-2de9958b40bd)
+
 <br></br>                               
  > Our Vision Page: User can download the spreadsheet authenticated by Government
-![Screenshot 2023-07-12 094040](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/b9f14c00-9b5c-463b-ac1f-3870bb0b2984)
-![image](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/0f625c4d-974a-4c61-bbad-1ba699ddbeea)
+![2](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/ce20c9b6-de3a-4e4c-af1a-4b6ee104cbcf)
+
+![3](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/60c7a3a1-7812-4e77-bae7-adc275443a44)
+
 <br></br>
                                                                                                                                                                                                                                             
  > Feed Section: User can comment and like a post
  <br></br>                               
 
-![Screenshot 2023-07-12 094433](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/99a8349f-a241-425f-bfe6-530546ca975b)
+![4](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/0cb30d7c-ebf2-46ed-a872-213decf8f562)
+
 <br></br>                               
 > Search Section: Fuzzy search by email Id
-![Screenshot 2023-07-12 094511](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/c4749390-43ed-4856-aac0-ec38c0b1073c)
+![5](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/4bc4c1f9-aafb-4864-8dfd-53b97e4ec863)
+
 <br></br>                               
 > Profile Section:
-![cry](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/23253926-9069-424c-b900-7d7fb836f626)
+![6](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/6a212c13-f8cf-45e4-b0d4-598369bda779)
+
 <br></br>                               
 > Walling Section: User can post over their wall, unethical fitler is applied.
-![Screenshot 2023-07-12 094533](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/12deeddf-01ef-4eb6-9e44-85d3d3a95e4f)
+![7](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/0eea7cb6-ac8d-4494-8daf-a88c29d68591)
+
 <br></br>                               
 > Payment: RazorPay Integration, User gets alert on successful payment
-![Screenshot 2023-07-12 094602](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/6ac9b313-a5ed-482d-a021-693f13a7b11d)
+![8](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/0c5c442c-5d79-436d-a682-28bba3271680)
+
 <br></br>
 
-![Screenshot 2023-07-12 094705](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/217c695d-36e0-4ab5-b2ba-fe90834336ea)
+![9](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/3e4ab513-4a80-41f7-847d-a896dcba8803)
+
 <br></br>                               
 
 ## MongoDb - Schema Design:
-![Screenshot 2023-07-12 104331](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/5857117d-9a32-4b3c-8fd0-cb30fe3ada2a)
-<br></br>
+![10](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/e1388b10-bb3d-439a-8880-371de6668dee)
 
-![Screenshot 2023-07-12 100438](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/8c0a7907-432a-400b-a05e-d3f67a1330e3)
+<br></br>
+![11](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/6baacb16-daec-4a2a-8f44-1c3d6ea586fa)
+
+
 <br></br>
 
 
 ## Use Case Diagrams
-![Screenshot 2023-07-12 095418](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/3bfdd60b-88d0-4ece-bd3d-f7aadaca98c1)
+![12](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/504af38d-68f3-4a8f-b8c3-38f1107fd2b1)
+
 <br></br>
 
 ## Sequence Diagram
-![Screenshot 2023-07-12 095504](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/807f7c8f-0a3f-4fb1-b458-94d393f025dd)
+![13](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/1e1f7f6f-fbc2-4196-9612-d3e1531e6fa6)
+
 <br></br>
 
-![Screenshot 2023-07-12 095530](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/ccd42c8c-39cc-4215-a183-4ba6b7973c1e)
+![14](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/1b3349fa-24ac-4f4e-8a6d-8eb4624913ba)
+
 <br></br>
 
 ##  Entity Relationship Diagram
-![image](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/32fa03cc-ab5a-4ac8-a270-3b2e6d982105)
+![15](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/b6b6a440-bd56-4572-b729-057f3a7e9ffc)
+
 <br></br>
 
 
 ## Chatbot Preview: Botsupp API
-![image](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/917ec1fc-bb92-45a7-94c3-ba851fc3ebbc)
+![16](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/6d08cfc8-a6b7-4c42-b2bc-faf3bbf6e3d4)
+
 <br></br>
  > Chatbot block diagram 
-![Screenshot 2023-07-12 093806](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/1dbc27bd-b1f8-4e49-8fdb-8780ff017a89)
+![17](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/3df2f5e4-045c-4c49-9a17-18d825fe1aac)
+
 <br></br>
 
 ## Google Drive File with exxtension as .xlsx: Files can be modifed dynamically by authenticated user
-![Screenshot 2023-07-12 104331](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/062449e5-999a-4928-a0e5-d98af8f5e085)
+
+![18](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/7776c049-b7ba-48fb-b317-ec7bcc802d4e)
 
 <br></br>
 ## Live link:
