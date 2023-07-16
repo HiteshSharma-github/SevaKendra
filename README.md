@@ -1,4 +1,4 @@
-![2](https://github.com/HiteshSharma-github/SevaKendra/assets/85629794/9e699114-5e66-49b9-af63-fd6f435072dc)# 🛞 SevaKendra 🛞
+# 🛞 SevaKendra 🛞
 A web app based platform that focuses on connecting NGOs of different categories with people for donations, while also providing a comprehensive list of banned NGOs. 
 
 ## Tech Stack -
